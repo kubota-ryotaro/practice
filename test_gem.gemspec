@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "test_gem"
   spec.version       = TestGem::VERSION
   spec.authors       = ["“kubota-ryotaro”"]
-  spec.email         = ["kubota-ryotaro@gmo-am.jp"]
+  spec.email         = ["rk0822ps4@gmail.com"]
 
   spec.summary       = "Make gem for the first time for summary."
   spec.description   = "Make gem for the first time for description."
