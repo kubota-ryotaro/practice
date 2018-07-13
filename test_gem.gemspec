@@ -6,7 +6,7 @@ require "test_gem/version"
 Gem::Specification.new do |spec|
   spec.name          = "test_gem"
   spec.version       = TestGem::VERSION
-  spec.authors       = ["“kubota-ryotaro”"]
+  spec.authors       = ["kubotaryoutarou"]
   spec.email         = ["rk0822ps4@gmail.com"]
 
   spec.summary       = "Make gem for the first time for summary."
